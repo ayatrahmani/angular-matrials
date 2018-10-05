@@ -1,10 +1,10 @@
 # angular-matrials
 
-#npm install --save @angular/material @angular/cdk @angular/animations
+> npm install --save @angular/material @angular/cdk @angular/animations
 > @import “~@angular/material/prebuilt-themes/indigo-pink.css”;
-<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+> <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
-
+```
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import {
@@ -57,4 +57,4 @@ const YOUR_MATERIAL_MODULES = [
   exports: [YOUR_MATERIAL_MODULES],
   declarations: []
 })
-export class AngularMaterialModule { }
+export class AngularMaterialModule { }  ```
