@@ -1,7 +1,7 @@
 # angular-matrials
 
 #npm install --save @angular/material @angular/cdk @angular/animations
-@import “~@angular/material/prebuilt-themes/indigo-pink.css”;
+> @import “~@angular/material/prebuilt-themes/indigo-pink.css”;
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
 
